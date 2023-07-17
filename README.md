@@ -1,2 +1,2 @@
 # Curso CSS
-Arquivos do curso de CSS - CFB Cursos
+Curso de CSS do canal CFB Cursos
