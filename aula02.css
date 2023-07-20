@@ -1,0 +1,22 @@
+/*formatação de tag*/
+p{
+    color: darkgreen;
+    font-size: 20pt;
+}
+
+/*formatação de id*/
+#p1{
+    color: hotpink;
+}
+
+/*formatação de classe*/
+.txt{
+    color: darkred;
+    font-size: 30pt;
+}
+
+/*formatação de multiplas tags*/
+h4,h5,h6{
+    color: darkorange;
+    font-size: 12pt;
+}
