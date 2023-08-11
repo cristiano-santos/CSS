@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+    background-image: url(imagem_html.png);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: 200px 500px;
+}
+
+p{
+    font-size: 150pt;
+    background-image: url(marcador.png);
+    background-repeat: repeat-x;
+    background-position: 0px 8px;
+}
